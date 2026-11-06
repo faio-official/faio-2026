@@ -23,6 +23,19 @@
 
 ## 📚 Rounds
 
+### 🧠 Qualification Round
+
+The online selection stage — five problems, open for late submission.
+
+- 📘 **Open:** [README.md](./qualification/README.md)
+
+**Problems:**
+[A — Who evaluated it?](./qualification/a-who-evaluated/en.md) ·
+[B — Robot Walker](./qualification/b-robot-walker/en.md) ·
+[C — Stranded on an Unknown Planet](./qualification/c-stranded/en.md) ·
+[D — Inverse Text Normalization](./qualification/d-inverse-text-normalization/en.md) ·
+[E — Third of the Sum](./qualification/e-third-of-sum/en.md)
+
 ### 🏁 Day 1
 
 Video, audio, high-dimensional vectors and text — four signals to pull structure out of.
@@ -49,9 +62,9 @@ Lectures, language models, voices in a room and web search.
 
 ---
 
-## 📝 Upsolving
+## 📝 Upsolving and late submission
 
-All eight problems stay open for upsolving on **[contest.faio.kz](https://contest.faio.kz)** — sign in, open the FAIO 2026 contest and submit at your own pace. Each statement links its dataset directly; those downloads need no account.
+All thirteen problems stay open on **[contest.faio.kz](https://contest.faio.kz)** — the qualification round for late submission, and both contest days for upsolving. Sign in, open the FAIO 2026 contest and submit at your own pace. Each day-1 and day-2 statement links its dataset directly; those downloads need no account.
 
 ---
 
